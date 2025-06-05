@@ -69,15 +69,7 @@ python cryptochatbot.py
 - Energy usage
 - Environmental impact
 - Sustainability scores
-- Eco-friendly alternatives
-
-## Disclaimer ⚠️
-
-This chatbot is for informational purposes only. Always do your own research before making any investment decisions. Past performance does not guarantee future results.
-
-## Contributing 🤝
-
-Feel free to submit issues and enhancement requests!
+- Eco-friendly alternative 
 
 ## License 📝
 
